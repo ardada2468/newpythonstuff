@@ -11,7 +11,7 @@ setup(
 		version ='3.0.0',
 		author ='Arnav Dadarya',
 		author_email ='ardada2468@gmail.com',
-		url ='',
+		url ='https://github.com/ardada2468/newpythonstuff',
 		description ='Demo Package for testing.',
 		long_description = long_description,
 		long_description_content_type ="text/markdown",
