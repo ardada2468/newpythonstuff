@@ -7,8 +7,8 @@ long_description = 'Sample Package made for a demo \
 	of its making for the GeeksforGeeks Article.'
 
 setup(
-		name ='dbutilstest',
-		version ='3.0.0',
+		name ='dbutilstest2',
+		version ='4.0.0',
 		author ='Arnav Dadarya',
 		author_email ='ardada2468@gmail.com',
 		url ='https://github.com/ardada2468/newpythonstuff',
@@ -19,7 +19,7 @@ setup(
 		packages = find_packages(),
 		entry_points ={
 			'console_scripts': [
-				'dbutils = pystuff.test:main'
+				'dbutils = dbutil.dbutils:main'
 			]
 		},
 		classifiers =(
