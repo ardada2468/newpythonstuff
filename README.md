@@ -8,7 +8,7 @@ https://github.com/ardada2468/newpythonstuff
  - python3 setup.py install
  - python3 setup.py sdist bdist_wheel
  - twine upload dist/*
-	 4. Must Have account in pypi (will ask for login)
+ - Must Have account in pypi (will ask for login)
 
 **Installing via pip**
 
