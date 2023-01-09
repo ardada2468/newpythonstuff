@@ -1,7 +1,7 @@
 import argparse
 import requests
 
-url = "https://dbc-b6c4ca60-2788.cloud.databricks.com/api/2.0/clusters/spark-versions?token=dapi75bb6f2e6e903bf9d18872fcc84f3ba1"
+url = "URL/api/2.0/clusters/spark-versions?token=[Insert Token here]"
 
 payload={}
 headers = {}
